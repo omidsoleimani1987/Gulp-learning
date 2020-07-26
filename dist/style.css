@@ -1,0 +1,8 @@
+header {
+  display: flex;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+header h1 {
+  color: blue;
+}

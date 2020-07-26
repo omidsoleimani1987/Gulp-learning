@@ -1,0 +1,25 @@
+{
+  "name": "08-gulp-4",
+  "version": "1.0.0",
+  "description": "gulp 4 for css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omidsoleimani1987/Gulp-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omidsoleimani1987/Gulp-learning/issues"
+  },
+  "homepage": "https://github.com/omidsoleimani1987/Gulp-learning#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
